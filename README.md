@@ -1,0 +1,22 @@
+# teste_threads_exercicio_slides
+Uso de paralelismo
+
+------------------------------------------------------------------
+
+### Java pelo terminal
+
+ Caso não queira instalar uma IDE para fazer os testes em java, use uma VM e instale o pacote do java, para compilar os codes use o comando:
+ 
+ javac <nome do arquivo>.java
+ 
+ O mesmo irá gerar um .class que poderá ser executado, usando o comando abaixo:
+ 
+ java <nome do arquivo sem extensão>
+ 
+ ### Python
+ 
+ Não tem segredo, só fazer:
+ 
+ python <nome do arquivo>.py
+ 
+ Ou execute por uma IDLE que támbem é comum de se ter
