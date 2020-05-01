@@ -3,6 +3,10 @@ Uso de paralelismo
 
 ------------------------------------------------------------------
 
+Estão na ordem que foram apresentado dentro dos slides.
+
+------------------------------------------------------------------
+
 ### Java pelo terminal
 
  Caso não queira instalar uma IDE para fazer os testes em java, use uma VM e instale o pacote do java, para compilar os codes use o comando:
